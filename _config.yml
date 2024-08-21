@@ -1,3 +1,7 @@
+title: Miko Ko
+description: Systems Engineer
+twitter_username: miko202104
+github_username: miko202104
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
